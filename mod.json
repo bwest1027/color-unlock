@@ -5,5 +5,6 @@
 	"id": "creo.color_unlock_hack",
 	"name": "Color Unlock Hack",
 	"developer": "Creo",
-	"description": "Icon hack without the icons"
+	"description": "Icon hack without the icons",
+	"repository": "https://github.com/bwest1027/color-unlock"
 }
